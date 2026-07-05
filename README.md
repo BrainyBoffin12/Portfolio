@@ -1,21 +1,81 @@
-#GlobalRep
-Hi there! I'm Houssam Khaldi 👋
+# 👋 Hi, I'm Houssam Khaldi
 
-## About Me
-- 🎓 I hold a Bachelor's degree in HR Management and I'm currently pursuing a degree in Computer Science, specifically in Artificial Intelligence.
-- 🌱 I’m currently learning Python, SQL, and data analysis.
-- 👯 I’m looking to collaborate on open-source projects related to data analysis and software development.
-- 📫 How to reach me: [ houssamkh510@gmail.com ]
-- 💬 Ask me about transitioning from HR to tech, Python programming, and data analysis.
+🎓 **AI Graduate | Artificial Intelligence & Data**
 
-## Skills
-- **Programming Languages**: Python, SQL, C
-- **Tools**: Git, GitHub, Jupyter Notebook
-- **Other Skills**: Analytical Thinking, Problem-Solving, Communication and Team collaboration
+I'm a recent graduate in Artificial Intelligence with a strong interest in Machine Learning, Data Science and Software Development. I enjoy solving real-world problems through technology and continuously expanding my technical skills by building practical projects.
 
-## Contact
-- **Email**: [houssamkh510@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/houssam-khaldi-2b1918209/]
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🚀 About Me
+
+- 🎓 Bachelor's Degree in Artificial Intelligence
+- 💻 Passionate about AI, Data Science and Software Engineering
+- 🌱 Currently building AI and Data projects
+- 📍 Based in Kenitra, Morocco
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- C++
+- SQL
+
+### AI & Data
+- Machine Learning
+- Data Analysis
+- Data Preprocessing
+
+### Databases
+- Oracle
+- SQL Server
+
+### Development Tools
+- Visual Studio Code
+- IntelliJ IDEA
+- PyCharm
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🚧 Padel Performance Intelligence *(Coming Soon)*
+
+An AI-powered platform for analyzing padel player performance and generating personalized recommendations using Machine Learning.
+
+---
+
+### 🖨 Raspberry Pi Data Matrix Generator
+
+Developed during my internship at Saint-Gobain.
+
+Features include:
+
+- Data Matrix scanning
+- Automatic code generation
+- Tkinter GUI
+- Brother label printing
+- Raspberry Pi automation
+
+---
+
+## 🎯 Career Objective
+
+My goal is to build a career in Artificial Intelligence and Data Science by contributing to innovative projects that leverage machine learning and intelligent data analysis.
+
+---
+
+## 📫 Contact
+
+📧 Email:
+houssamkh510@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/houssam-khaldi-2b1918209/
+
+🐙 GitHub:
+https://github.com/BrainyBoffin12
